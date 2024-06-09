@@ -281,7 +281,7 @@ export const SOCIALS = [
   {
     name: "Linkedin",
     icon: linkedin,
-    link: "https://www.linkedin.com/in/YusufSameh2003",
+    link: "https://www.linkedin.com/in/youssef-sameh-0646a9286/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Buz1J%2B0c8RcWzSHA1NO%2Fj%2Fw%3D%3D",
   },
   {
     name: "Twitter",
